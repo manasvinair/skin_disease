@@ -1,4 +1,4 @@
-````markdown
+
 # 🩺 Skin Disease Detection using Deep Learning | Full-Stack Deployment
 
 ## 🔍 Overview
